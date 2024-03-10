@@ -1,0 +1,41 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+  }
+  
+.heroImage {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://unsplash.com/photos/417kabtPFEU/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzEwMDc2MjIyfA&force=true&w=1920');
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
+  
+  .heroText {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
+  
+  .heroText .button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 10px 25px;
+    color: black;
+    background-color: #ddd;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .heroText .button:hover {
+    background-color: #555;
+    color: white;
+  }
+  
+  

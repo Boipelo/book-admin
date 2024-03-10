@@ -1,0 +1,35 @@
+[
+    {
+      "_id": 1,
+      "cover": "https://controlmg.com/wp-content/uploads/2024/03/1.webp",
+      "title": "Stars Beyond The Horizon",
+      "author": "Jane Doe",
+      "tags": ["Science Fiction", "Space Adventure", "Futuristic"],
+      "price": "€54.99"
+    },
+    {
+      "_id": 2,
+      "cover": "https://controlmg.com/wp-content/uploads/2024/03/2.webp",
+      "title": "Orbit of the Unknown",
+      "author": "Jane Doe",
+      "tags": ["Science Fiction", "Space Adventure", "Futuristic"],
+      "price": "€79.85"
+    },
+    {
+      "_id": 3,
+      "cover": "https://controlmg.com/wp-content/uploads/2024/03/3.webp",
+      "title": "Echiccs of Ice",
+      "author": "Jane Doe",
+      "tags": ["Fiction", "Space Adventure", "Futuristic"],
+      "price": "€34.99"
+    },
+    {
+      "_id": 4,
+      "cover": "https://controlmg.com/wp-content/uploads/2024/03/4.webp",
+      "title": "Gallicuc Valor",
+      "author": "Jane Doe",
+      "tags": ["Science Fiction", "Space Adventure", "Futuristic"],
+      "price": "€49.99"
+    }
+  ]
+  
