@@ -1,6 +1,6 @@
 'use client'
 // import books from '../../api/books.json';
-import './style.css';
+// import './style.css';
 import React, { useState, useEffect } from 'react';
 import Navbar from '../../../../../../components/header/navbar';
 import Footer from '../../../../../../components/footer/footer';

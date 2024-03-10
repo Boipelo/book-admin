@@ -1,3 +1,24 @@
+## FE Task
+The FE-Task has been broken down into the following routes:
+
+# Administrators
+- pages/admin/books
+- pages/admin/books/new
+- pages/admin/books/[bookId]
+
+# End User
+- pages/books
+- pages/books/[bookId]
+
+# API
+The following pages contain urls to the https://crudcrud.com api:
+- components/bookshelf/bookshelf.tsx
+- src/app/pages/admin/books/[bookId]
+- src/app/pages/books/[bookId]
+
+For testing purposes I have provide an dummy data file - src/app/pages/api/books.json. The data in this file is intended to be added to to the https://crudcrud.com api via the form built to add new books.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
